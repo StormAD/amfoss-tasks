@@ -6,6 +6,10 @@
 - mkdir - helped me make directories
 - open - opened directory or txt.file on desktop
 - python3 - helped run python code
+- git branch -a - helped find the different branch
+- git checkout - helped move to those diffirent branches
+- cat -helped read text files
+- cat > - helped edit text files
 
 ## How I Pushed Work(didn't come across Git terminal commands)
 >open 'name of file'. which opened it in desktop
